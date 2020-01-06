@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/VuforiaAR.unity
+  isLoaded: 1
+  isActive: 1
